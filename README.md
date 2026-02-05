@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Hongchen Li`
+- **CCID:** `hongche4 `
 
 ## References and Resources
 
