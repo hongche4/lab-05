@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375515273938",
+    "project_id": "cmput301-lab5-hongchen",
+    "storage_bucket": "cmput301-lab5-hongchen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375515273938:android:7dd1c577a044baf69feb0b",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8X04BV2CjVYQXDyIbjjhJ4Xz8X2e5Jpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
